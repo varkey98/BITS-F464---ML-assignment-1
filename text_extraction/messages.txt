@@ -1,0 +1,177 @@
+Subject: Varkeychan, finish setting up your new Google Account
+From: Google Community Team <googlecommunityteam-noreply@google.com>
+Date: 20-10-2021, 11:47
+To: varkeysubscriptions@gmail.com
+
+Welcome to your Google Account
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Hi Varkeychan,
+Welcome to Google. Your new account comes with access to Google products, apps and services.
+Here are a few tips to get you started.
+Get the most out of your Google Account
+We'll send you personalised tips, news and recommendations from Google.
+Yes, keep me updated
+Stay up to date with the Google app
+Find quick answers, explore your interests and stay up to date.
+Try it
+More from Google
+Discover the latest apps from Google.
+For Android
+  
+For iOS
+Confirm that your options are right for you
+Review and change your privacy and security options to make Google work better for you.
+Confirm
+		
+Find answers
+Visit the Help Centre to learn all about your new Google Account.
+	
+Replies to this email aren't monitored. If you have a question about your new account, the Help Centre probably has the answer that you're looking for.
+Google LLC
+1600 Amphitheatre Parkway,
+Mountain View, CA 94043
+
+This email was sent to you because you created a Google Account.
+                                                          
+
+
+-------------------------
+
+Subject: Critical security alert
+From: Google <no-reply@accounts.google.com>
+Date: 20-10-2021, 11:48
+To: varkeysubscriptions@gmail.com
+
+	
+Google
+Access for less secure apps has been turned on
+	varkeysubscriptions@gmail.com
+Access for less secure apps has been turned on for your Google Account varkeysubscriptions@gmail.com. If you didn't change it, you should look into what happened.
+Check activity
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your Google Account and services.
+© 2021 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+	
+
+
+-------------------------
+
+Subject: Microsoft Outlook Test Message
+From: "Microsoft Outlook" <varkeysubscriptions@gmail.com>
+Date: 20-10-2021, 11:51
+To: "Varkeychan Jacob" <varkeysubscriptions@gmail.com>
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+
+
+-------------------------
+
+Subject: Delivery Status Notification (Failure)
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Date: 20-10-2021, 11:51
+To: varkeysubscriptions@gmail.com
+
+Error Icon
+Message blocked
+Your message to varkeysubscriptions@gmail.com has been blocked. See technical details below for more information.
+LEARN MORE
+The response was:
+
+Message rejected. See https://support.google.com/mail/answer/69585 for more information.
+
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; varkeysubscriptions@gmail.com
+Arrival-Date: Tue, 19 Oct 2021 23:21:54 -0700 (PDT)
+X-Original-Message-ID: <616fb582.1c69fb81.df73b.3bf9@mx.google.com>
+
+Final-Recipient: rfc822; varkeysubscriptions@gmail.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; Message rejected.  See https://support.google.com/mail/answer/69585 for more information.
+Last-Attempt-Date: Tue, 19 Oct 2021 23:21:55 -0700 (PDT)
+
+
+ForwardedMessage.eml
+Subject:
+Microsoft Outlook Test Message
+From:
+"Microsoft Outlook" <varkeysubscriptions@gmail.com>
+Date:
+20-10-2021, 11:51
+To:
+"Varkeychan Jacob" <varkeysubscriptions@gmail.com>
+
+This is an e-mail message sent automatically by Microsoft Outlook while testing the settings for your account.
+
+
+-------------------------
+
+Subject: Test
+From: Varkeychan Jacob <f20170828@pilani.bits-pilani.ac.in>
+Date: 20-10-2021, 11:53
+To: varkeysubscriptions@gmail.com
+
+Test email
+
+The information contained in this electronic communication is intended solely for the individual(s) or entity to which it is addressed. It may contain proprietary, confidential and/or legally privileged information. Any review, retransmission, dissemination, printing, copying or other use of, or taking any action in reliance on the contents of this information by person(s) or entities other than the intended recipient is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us by responding to this email or telephone and immediately and permanently delete all copies of this message and any attachments from your system(s). The contents of this message do not necessarily represent the views or policies of BITS Pilani.
+
+
+-------------------------
+
+Subject: Fwd: 11511001330_MATH F441_AUG_2021: Quiz 1 return
+From: Varkeychan Jacob <f20170828@pilani.bits-pilani.ac.in>
+Date: 20-10-2021, 11:59
+To: varkeysubscriptions@gmail.com
+
+
+
+---------- Forwarded message ---------
+From: Divyum Sharma . (via Nalanda) <divyum.sharma@pilani.bits-pilani.ac.in>
+Date: Tue, Oct 19, 2021 at 4:17 PM
+Subject: 11511001330_MATH F441_AUG_2021: Quiz 1 return
+To: Varkeychan Jacob <f20170828@pilani.bits-pilani.ac.in>
+
+
+11511001330_MATH F441_AUG_2021 » Forums » Announcements » Quiz 1 return
+Picture of Divyum Sharma . 	
+Quiz 1 return
+by Divyum Sharma . - Tuesday, 19 October 2021, 3:51 PM
+  	
+PDF document Quiz1_Solns.pdf
+
+The correction of Quiz 1 is complete. The highest score is 15 and the average is 6.1. The solutions are attached. Please refer to them before submitting any recheck requests.
+
+Students who wrote the quiz on-campus may collect their answer sheets from my chamber 6165B (NAB, Dept. of Economics and Finance) on October 20 from 11:15 am-12:30 pm. Any recheck requests must be submitted before you leave the chamber.
+
+The answer sheets of students who wrote the quiz online will be returned shortly. These students must submit any recheck requests by 8:00 pm on October 20 by email with the subject line `MATH F441: Quiz 1 Recheck’.
+
+See this post in context
+Change your forum digest preferences
+
+The information contained in this electronic communication is intended solely for the individual(s) or entity to which it is addressed. It may contain proprietary, confidential and/or legally privileged information. Any review, retransmission, dissemination, printing, copying or other use of, or taking any action in reliance on the contents of this information by person(s) or entities other than the intended recipient is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us by responding to this email or telephone and immediately and permanently delete all copies of this message and any attachments from your system(s). The contents of this message do not necessarily represent the views or policies of BITS Pilani.
+
+
+-------------------------
+
+Subject: Security alert
+From: Google <no-reply@accounts.google.com>
+Date: 20-10-2021, 12:10
+To: varkeysubscriptions@gmail.com
+
+	
+Google
+Mozilla Thunderbird Email was granted access to your Google account
+	varkeysubscriptions@gmail.com
+
+If you did not grant access, you should check this activity and secure your account.
+Check activity
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your Google Account and services.
+© 2021 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+	
+
+
+-------------------------
+

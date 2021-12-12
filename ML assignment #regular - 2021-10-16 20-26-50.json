@@ -1,0 +1,379 @@
+[
+  {
+    "windows": {
+      "1": {
+        "9": {
+          "id": 9,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634396210398,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://nalanda-aws.bits-pilani.ac.in/pluginfile.php/82138/mod_resource/content/1/Machine%20Learning%20Assignment%20%231.pdf",
+          "title": "Microsoft Word - Machine Learning Assignment #1.docx - Machine Learning Assignment #1.pdf"
+        },
+        "10": {
+          "id": 10,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634396149967,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.google.com/search?client=firefox-b-d&q=machine+learning+model+for+labelling+emails",
+          "title": "machine learning model for labelling emails - Google Search",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD/ElEQVRYhb2XS2xUZRTHZ9NgUerKnQtRkJ0S7YOF1og4gnZB0mGgtQsUK8agC6PWhKCBhKLFQhNgMW2xEDNhWgm0YoU2A0h9dGKRmCGkDVpA7cPcmT6ZO+M8zv/vgplx7qtzh4cnOZt7vzm//3l83/3G4bBpJEtI1opIO4AhAFMAEmkPAxgSkXaSNSRL7Ma1A14hIh0AYrRpAKIicpjk8jsBLxaRZgApu2ATIUkR2UuyuFD44wCu3C7YREiQ5DK78KcAhMwCpSbGqHq/4Oz7bzO8YS0V5yoqL1YwXO3kzHtvUT3aytTYn1YiFJIr7WRugKcmxzm38yMqa8qpvFC2sK8p59wnHzI1OW4lwrwSJO83K3usv5ehVyrzg3UeqnqO/5zvt2qHcSZEpFm/WD12pGBwrs837TRth4g06bNfoZ/2WH+vZeDp+hpG2g4w9s0JxnpPMtJ2kNNv1mrh+xpJwGoekppWiEiHpucTYwy9/KwBPFW3nvGLAdOgJBkfGmR4UxVvHvzcck1OFdoz2T+oP2QiLe8Y4DPbXiPm5/MGhhrJu4YkAagklzhI1mpeREeZ7FvEuYZHsvDwhrWU2WlbgQu0jY70+Z01ud7IpL+ISX8R1QMPMbSulLEzp+4FnCLicQAYyn2Y+sWZFZD0FzF+YimZTN4TAQACDgBTuQ+TAw9rBKQu1ywYZPXuiG0/f0WbCADFASChEXB2kUaA/L7jrgnw/qhBEUD8fxXQcSFuKiCsEaBvQXDTXRPQFTBUQDEO4aWXNALGBp5gQgofwmuKGARcGDbMQMBkG36ahZ/qXcpnfOvZPeovWIBvMGEQMDmrPZpFxOPgrTvcf6qi1xn1F7Ox+2mW+qpZ6qums/t1hmMztuE3Y6CrRdXAN3uiZkvdDpIlADRv9w/uysIzXtf3AWfj+Y/iRIpsOBYzZN9p7L9K8oHMx+hw7suJiMLK468aRFR9vZUD4xct4VdnbnBLj4+rd89p4K4WldG4ofytuZ/j5elPZNZO3xgwCMi469t32Xypg11XT/Or387wUNDLN/zbWeZzsdRXzYojDXz+s7+yAr4f0d5r01v/Mf2FZK8+oy9HeixF5PMy72ZW7vvZsPfT2e8xu5ItBnBZv7jvjx9YebyuYAEVnW62BXsMcAC/krzP6l64LH1x1NikGuL2n/azvNNlC7713Mccnh41g/9N8lFTeI6IlWYiyFvDeXT4JLd9t4vreuq5qsvNik43nd1bWH92Bw8FvRyZvmb20wz8yQXhukoETSPdhqXLvnDmJiKKRaRJvzsKBCdEZA+tem63Gul/xGoBYFVEWqnfandiJJeQ3CgiHgABAAqAeNoVAAER8ZB0M3PC2bB/AWPggEEQxzX+AAAAAElFTkSuQmCC"
+        },
+        "11": {
+          "id": 11,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634395706574,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 10,
+          "url": "https://www.diva-portal.org/smash/get/diva2:1189491/FULLTEXT01.pdf",
+          "title": "FULLTEXT01.pdf",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABmUlEQVQ4jWWTrZbEIAyF+zorV46dR6isrUQisUgkshZZicRWjqzEIiMjvxX9n+WcHqAkNzfJTQfKcykKqF53AN1/7K/bSaG7A2w2dwPdHa431WfI7h71OOfPik8Fnwpz+SB6gT33HeAgd1Ad3URvI2NI/AyW3kZ8yhgfGL3HOI8NkdrawYAH6ugiUy4YHxhc4G08NiZqE0QVUWVtQpwmuq04m7OoMi8Lr8HippnaGqJQ1pX3aJEv2xNAVfnUinGemGYGF1jW9cy3ifDqDU0PZ/AhUJYPnbJFNc5TW9trEFnWugEoiCqv3rA2oYpifSCXgqrSLZ8VH+JWaTbj0QWWtZ50mwi/gyHOmcFalrXu6UDnfHi2CU4AVaWKMuXCT2+YcuFI+ahd50OkiSC7WESVwQVCKrgQGV3AxURv/c5Sz74BWwrWB8z5RX4HR5wzTRq1Ce/RkvJydeEmu7MLustUgMFvIrLTzHu0jM7T9BIaNxad8qSlCilnjI+YkEh52Z2f1M9hukbnLudLmZz798DtDJ6o34P1f6y/1x9/7oZ60leLjAAAAABJRU5ErkJggg=="
+        },
+        "12": {
+          "id": 12,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634396147347,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 10,
+          "url": "https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-efed37c1e66",
+          "title": "How I used machine learning to classify emails and turn them into insights (part 1). | by Anthdm | Towards Data Science",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEU1WXf///8zWHU2V3YzV3X9/f03Wnj7/Pykrb5CYn89Xns4W3lHZIBqgZmhq7zCx9NzhpyIlanl5+xHZoJeepJbdI4yVnNNaoXf4eeRnbC3wcx7jKLKz9lgdY/q6/CttsRXc4zT198zVnXw8fRUcovIzddge5OWpLWCkafP1t55iJ+zuchLaYVlfJXn6e7y9PbW2eHDytThZDO6AAAAMnRSTlP//9nsxv//////////////////////qP//////////////t////////////////////5wVinYAAACpSURBVHic7dHHDsIwDAZg/0CTNt2l7L33ev+Xw4EcShVV4oZQfXBk65MdybRsVUaXmlQZjRp8CTzPdDZwbMADTCe2gxiQEdFepicNhCtvxyI4gCOiIedMA13itdSANdf5WTnIcjAIgIkKP1YwIGoDCaV6guR6awUhjTToLbjRKQE/UUDfXzFQggSwKwKXxZgenK/vP5QniBmmF/JdDAIG/OI+/71r/jl4AlrbB5Zn7v6DAAAAAElFTkSuQmCC"
+        },
+        "13": {
+          "id": 13,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634394943087,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://nalanda-aws.bits-pilani.ac.in/pluginfile.php/72793/mod_resource/content/1/ML%20Lab%20%235%20SVM.pdf",
+          "title": "ML Lab #5 SVM.pdf"
+        },
+        "14": {
+          "id": 14,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634395904658,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 10,
+          "url": "https://towardsdatascience.com/the-best-machine-learning-algorithm-for-email-classification-39888e7b1846",
+          "title": "The best Machine Learning algorithm for Email Classification | by Mahnoor Javed | Towards Data Science",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEU1WXf///8zWHU2V3YzV3X9/f03Wnj7/Pykrb5CYn89Xns4W3lHZIBqgZmhq7zCx9NzhpyIlanl5+xHZoJeepJbdI4yVnNNaoXf4eeRnbC3wcx7jKLKz9lgdY/q6/CttsRXc4zT198zVnXw8fRUcovIzddge5OWpLWCkafP1t55iJ+zuchLaYVlfJXn6e7y9PbW2eHDytThZDO6AAAAMnRSTlP//9nsxv//////////////////////qP//////////////t////////////////////5wVinYAAACpSURBVHic7dHHDsIwDAZg/0CTNt2l7L33ev+Xw4EcShVV4oZQfXBk65MdybRsVUaXmlQZjRp8CTzPdDZwbMADTCe2gxiQEdFepicNhCtvxyI4gCOiIedMA13itdSANdf5WTnIcjAIgIkKP1YwIGoDCaV6guR6awUhjTToLbjRKQE/UUDfXzFQggSwKwKXxZgenK/vP5QniBmmF/JdDAIG/OI+/71r/jl4AlrbB5Zn7v6DAAAAAElFTkSuQmCC"
+        },
+        "15": {
+          "id": 15,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634395865654,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 14,
+          "url": "https://github.com/MahnoorJaved98/Email-Classification",
+          "title": "GitHub - MahnoorJaved98/Email-Classification: Email Classification using different machine learning algorithms.",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABtUlEQVRYhb2WXZWDMBCFkYAEJNTB1sEiAQe7DoqDxQGVsA6KA+qgdQAOvn3osE3TmRAI7T0nL/mZe+cmmSTLFgAogRY4AT139NLXAp9LYsaQFhJ4IB6DrMlTyeuFxJqQwxri3LM4FT2xbgA70rK2MAC7mMxfQe6K0J1At/0MHIHrCrJR1nZef28JqJUglTNeeUI6r40OsbuuVOLWPnmBbv1eccncR4mTK30+HrdCrNKw90mWQkRrOLqTRmNStYEAbQsAhrkJI6mVLPt3wDrEZcj+5OwdEZXB0WQ8X5MJydl7IjR0Gbe77mPcklwEaIn2lrLLmwRgCeAFAtSDaA7wnjNwDR3CakNy66p3GdAYg6cNBVhJNiF1AN8bkFs1AKQQ5dilGNZ8qe7k2gs74V5peayGtbji1ocL8AN8RJDugC9ZE0LjLnKfzEGC5OhF6hwg/50hdVGE7BpEVMHz9pQz2cegtgK4GR8dd2ppVcQWzMF0UDuQ4V/scgHzT7zY6IpogcPUEgSM0QlhH8DZN8KyfTZzI9jTPV4hoF5M7AUsuJXrkYh/wjSPW20pksi9wHlMQJSveQh/HS6+epy9kZUAAAAASUVORK5CYII="
+        },
+        "19": {
+          "id": 19,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634396148557,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 15,
+          "url": "https://github.com/MahnoorJaved98/Email-Classification/blob/master/email_preprocess.py",
+          "title": "Email-Classification/email_preprocess.py at master · MahnoorJaved98/Email-Classification · GitHub",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABtUlEQVRYhb2WXZWDMBCFkYAEJNTB1sEiAQe7DoqDxQGVsA6KA+qgdQAOvn3osE3TmRAI7T0nL/mZe+cmmSTLFgAogRY4AT139NLXAp9LYsaQFhJ4IB6DrMlTyeuFxJqQwxri3LM4FT2xbgA70rK2MAC7mMxfQe6K0J1At/0MHIHrCrJR1nZef28JqJUglTNeeUI6r40OsbuuVOLWPnmBbv1eccncR4mTK30+HrdCrNKw90mWQkRrOLqTRmNStYEAbQsAhrkJI6mVLPt3wDrEZcj+5OwdEZXB0WQ8X5MJydl7IjR0Gbe77mPcklwEaIn2lrLLmwRgCeAFAtSDaA7wnjNwDR3CakNy66p3GdAYg6cNBVhJNiF1AN8bkFs1AKQQ5dilGNZ8qe7k2gs74V5peayGtbji1ocL8AN8RJDugC9ZE0LjLnKfzEGC5OhF6hwg/50hdVGE7BpEVMHz9pQz2cegtgK4GR8dd2ppVcQWzMF0UDuQ4V/scgHzT7zY6IpogcPUEgSM0QlhH8DZN8KyfTZzI9jTPV4hoF5M7AUsuJXrkYh/wjSPW20pksi9wHlMQJSveQh/HS6+epy9kZUAAAAASUVORK5CYII="
+        },
+        "22": {
+          "id": 22,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634395704700,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.google.com/search?client=firefox-b-d&q=_pickle+in+python",
+          "title": "_pickle in python - Google Search",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD/ElEQVRYhb2XS2xUZRTHZ9NgUerKnQtRkJ0S7YOF1og4gnZB0mGgtQsUK8agC6PWhKCBhKLFQhNgMW2xEDNhWgm0YoU2A0h9dGKRmCGkDVpA7cPcmT6ZO+M8zv/vgplx7qtzh4cnOZt7vzm//3l83/3G4bBpJEtI1opIO4AhAFMAEmkPAxgSkXaSNSRL7Ma1A14hIh0AYrRpAKIicpjk8jsBLxaRZgApu2ATIUkR2UuyuFD44wCu3C7YREiQ5DK78KcAhMwCpSbGqHq/4Oz7bzO8YS0V5yoqL1YwXO3kzHtvUT3aytTYn1YiFJIr7WRugKcmxzm38yMqa8qpvFC2sK8p59wnHzI1OW4lwrwSJO83K3usv5ehVyrzg3UeqnqO/5zvt2qHcSZEpFm/WD12pGBwrs837TRth4g06bNfoZ/2WH+vZeDp+hpG2g4w9s0JxnpPMtJ2kNNv1mrh+xpJwGoekppWiEiHpucTYwy9/KwBPFW3nvGLAdOgJBkfGmR4UxVvHvzcck1OFdoz2T+oP2QiLe8Y4DPbXiPm5/MGhhrJu4YkAagklzhI1mpeREeZ7FvEuYZHsvDwhrWU2WlbgQu0jY70+Z01ud7IpL+ISX8R1QMPMbSulLEzp+4FnCLicQAYyn2Y+sWZFZD0FzF+YimZTN4TAQACDgBTuQ+TAw9rBKQu1ywYZPXuiG0/f0WbCADFASChEXB2kUaA/L7jrgnw/qhBEUD8fxXQcSFuKiCsEaBvQXDTXRPQFTBUQDEO4aWXNALGBp5gQgofwmuKGARcGDbMQMBkG36ahZ/qXcpnfOvZPeovWIBvMGEQMDmrPZpFxOPgrTvcf6qi1xn1F7Ox+2mW+qpZ6qums/t1hmMztuE3Y6CrRdXAN3uiZkvdDpIlADRv9w/uysIzXtf3AWfj+Y/iRIpsOBYzZN9p7L9K8oHMx+hw7suJiMLK468aRFR9vZUD4xct4VdnbnBLj4+rd89p4K4WldG4ofytuZ/j5elPZNZO3xgwCMi469t32Xypg11XT/Or387wUNDLN/zbWeZzsdRXzYojDXz+s7+yAr4f0d5r01v/Mf2FZK8+oy9HeixF5PMy72ZW7vvZsPfT2e8xu5ItBnBZv7jvjx9YebyuYAEVnW62BXsMcAC/krzP6l64LH1x1NikGuL2n/azvNNlC7713Mccnh41g/9N8lFTeI6IlWYiyFvDeXT4JLd9t4vreuq5qsvNik43nd1bWH92Bw8FvRyZvmb20wz8yQXhukoETSPdhqXLvnDmJiKKRaRJvzsKBCdEZA+tem63Gul/xGoBYFVEWqnfandiJJeQ3CgiHgABAAqAeNoVAAER8ZB0M3PC2bB/AWPggEEQxzX+AAAAAElFTkSuQmCC"
+        },
+        "23": {
+          "id": 23,
+          "index": 10,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634395930815,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 22,
+          "url": "https://docs.python.org/3/library/pickle.html",
+          "title": "pickle — Python object serialization — Python 3.10.0 documentation",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACfUlEQVQ4jYWS6TJbcRiHzyW4lKjSyEEiiQi66E5X1c1aIRnUeuxUO8032jKJRtEqsdRYypz/HTQzFbFHrPlmpjfw9APGFB3v5/f3zDvP+5OkE5P6XtWkvpnzJrdO75sbJjAqo+irhvbl8gGXweaKOLl/alLb54S1ZSbL0jg5YlTG0FcPE/f6G7rSPi6VfB45F2BtmRFJjRMuU93oL0P1MPEVh2G7h2ibS5wLSGqazDLXjSuGGq+SUDGoyGX9aO0eootcXCj4dDYg7a3qTmn7uW9pmsRUP46hxktC5SBy2QBaey/RNjdRBV1ocjsEYYcgbIdwkZegLUK6/E5VUtpmsTRPYar/QWLtCAmV35HLBoh19BJjcxNV2IUmt/MYsFsI2y8hlK1Iqe2zvuTmKcwNR+Eh4sq/Euv4QkxxD1GF3UTmfTgCuNnJ97H1HEKPIZgppOSWacwNEyTWjqKvOghrHX2+mOIecfFVt4jM+yg0uR1Ck9Pp/LOW38pmNmw8gPU7sJqOlNQwgVEZQ1918K7Mlq48wnYvYbtK2K6yV6yyW6Cy9WKfUBYE78HaLVi5CktWJKMy5jNUDxN/8Gsf4ZKRA0l22CuC7VzYfAobD2H9Lqxeh+U0WLRAwOCTDDVeJb5iEF1pP1qH59ByCceinkDwPqzdhpVrsJQCARP442FetkkGxRshl/e7tQ6PiLa5nOzZBDt5sPUMQo9gPUOwekOwfFmwaBEsJAr8OsG87D6zE2zniH9EraSrLKeoBMwq/gTnuU1kI0sQzIS1m7ByBRatsGAU+OOc+HXnV5n1DPexqCTw62FeVvHrav979inIklUhYPIdioJ52cfvOOWs3b9oie+19quHlAAAAABJRU5ErkJggg=="
+        },
+        "24": {
+          "id": 24,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 750,
+          "lastAccessed": 1634395931800,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 22,
+          "url": "https://www.geeksforgeeks.org/understanding-python-pickling-example/",
+          "title": "Understanding Python Pickling with example - GeeksforGeeks",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAq1BMVEX////+/v4AZQAveC8vei9Qk1HA1cD9/f0AZAAAYgAHZAfz9/JinWL5+vgIZwj6+/r3+vfp8ukjdCPX59cxfzGryqtcmlx2p3b2+faFsYWkxqS0z7Pg6+BypXIqdikTahNupG4FaAVlnmUtdy3i7eISbhJ1pnXZ59p3qnf0+PRem16SvJNnn2g+hz4MZwzF2sU7hTxIjkm/0r6dvZ2zzrPM3syVvZa20LZKi0rJKQdmAAAA0klEQVR4nO1Q1xKCQBC7jZ4eVey9V7B3///LBNyDGfTVN/KUZDLJzoocCcgyp4322KwT67U5XjWmB4u1eOEYUZqZXiQ77i627yrggGUwWRkVISpGm4sMR0+cNXFPRHu3zKqVHqHJEEQYajexU9Th+1hn3WsxQiHCCPM5RjGNzcsnccOC67rwOujywAJ9HilBry4VkVrqI1FiPwn0sRX0wJPlV2CAWthJNTXINNiQniBnoux4k2xMwoc5EjO+oVxtbqRs9Xg7NHqBlJtm9ccjcvwPb4vpCxf8y6ydAAAAAElFTkSuQmCC"
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": -7,
+        "left": -7,
+        "width": 1550,
+        "height": 878,
+        "incognito": false,
+        "type": "normal",
+        "state": "maximized",
+        "alwaysOnTop": false,
+        "title": "Microsoft Word - Machine Learning Assignment #1.docx - Machine Learning Assignment #1.pdf — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 11,
+    "name": "ML assignment",
+    "date": 1634396210398,
+    "lastEditedTime": 1634396863391,
+    "tag": [
+      "regular"
+    ],
+    "sessionStartTime": 1634383097641,
+    "id": "66c73b19-ef13-497d-a503-718bd99e2314"
+  }
+]
